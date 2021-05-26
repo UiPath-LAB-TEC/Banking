@@ -1,0 +1,3 @@
+[submodule "BACC_BankingApp_ContactCenter"]
+	path = BACC_BankingApp_ContactCenter
+	url = https://github.com/UiPath-LAB-TEC/BACC_BankingApp_ContactCenter.git
